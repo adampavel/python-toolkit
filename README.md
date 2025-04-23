@@ -1,6 +1,6 @@
 # Toolkit
 
-A compact, well-documented collection of Python utility functions and tools, ready to drop into your projects.
+This repository contains a compact, well-documented suite of Python utility functions and tools designed for easy integration into any project.
 
 ## Features
 
